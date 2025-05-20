@@ -36,3 +36,5 @@ If applicable, add screenshots or videos to help explain the problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+**Who we should contact for more information**
