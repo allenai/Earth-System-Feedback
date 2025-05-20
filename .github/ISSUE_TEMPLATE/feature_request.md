@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an idea or functionality that would improve Earth System.
 title: ''
 labels: enhancement
 assignees: ''
