@@ -9,5 +9,5 @@ Before creating an issue, please check the following:
 
 * Does the issue already exist?
 * You have selected the appropriate template for a bug report, feature request, or general feedback
-* If it's feedback or a suggestion, please ensure you give detailed information as to what could be improved and how would it work. Example
-* If it's an issue or a bug, describe it as best as possible by providing screencaps or steps to reproduce the issue. 
+* If it's *feedback or a suggestion*, please ensure you give detailed information as to what could be improved and how would it work. 
+* If it's an *issue or a bug*, describe it as best as possible by providing screencaps or steps to reproduce the issue. 
