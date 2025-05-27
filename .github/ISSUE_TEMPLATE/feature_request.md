@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea or functionality that would improve Earth System.
 title: "[Feature Request]"
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
@@ -15,7 +15,7 @@ A clear and concise description of what the problem is. Ex. I'm always frustrate
 A clear and concise description of what you want to happen.
 
 
-**Describe alternatives you've considered**
+**Describe any workarounds you've tried**
 A clear and concise description of any alternative solutions or features you've considered.
 
 
